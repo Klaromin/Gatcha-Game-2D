@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e59a8d426f4d2ab4caa7fbd806cb03a7, type: 3}
+  m_Name: Clutch10
+  m_EditorClassIdentifier: 
+  CardName: Clutch10
+  CardID: card_clucth
+  CardSprite: {fileID: 21300000, guid: 11dc70df5c10b3a42a236cf0733c9b55, type: 3}
+  CardRarity: 0
+  CardUnlockLevel: 1
+  CardAmount: 2
